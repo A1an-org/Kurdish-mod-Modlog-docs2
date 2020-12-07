@@ -17,7 +17,7 @@ channel called "messageDelete.js"
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
-**const Discord = require("discord.js");
+**const Discord = require("discord.js");**
 
     const logChannel = message.guild.channels.cache.find(c => c.name === "modlog");
 
@@ -39,7 +39,8 @@ channel called "messageDelete.js"
             chunked
         ].join("\n"))
 
-    logChannel.send(embed); }
+    logChannel.send(embed); 
+**}**
 
 --------------------------------------------------------------------------------------------------------------
 You will need to know js to use it
