@@ -82,6 +82,10 @@ guildMembersChunk.js
 
 channelCreate.js
 
+channelUpdate.js
+
+channelPinsUpdate.js
+
 channelDelete.js
 
 messageReactionAdd.js
@@ -91,5 +95,10 @@ messageReactionRemove.js
 roleCreate.js
 
 roleDelete.js
+
+roleUpdate.js (Hard to use)
+
+presenceUpdate.js
+
 ------------------------------------------------------------------------------------------------
 Alright so these are all of the current ones i know off, If you know more feel free to tell me about it
