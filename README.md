@@ -41,26 +41,47 @@ Anyways
 After you have done that!
 Try to understand how it works
 If you failed dm me Aian#9999 And i might be able to help
+----------------------------------------------------
 Anyways
 These all are of the events **I KNOW ABOUT**
-**messageDeleteBulk.js
+messageDeleteBulk.js
+
 messageUpdate.js
+
 guildMemberUpdate.js
+
 guildMemberAdd.js
+
 voiceChannelJoin.js
+
 voiceChannelLeave.js
+
 guildMemberSpeaking.js
+
 emojiCreate.js
+
 emojiUpdate.js
+
 emojiDelete.js
+
 guildBanAdd.js
+
 guildBanRemove.js
+
 guildMemberRemove.js
+
 guildMembersChunk.js
+
 channelCreate.js
+
 channelDelete.js
+
 messageReactionAdd.js
+
 messageReactionRemove.js
+
 roleCreate.js
-roleDelete.js**
+
+roleDelete.js
+------------------------------------------------------------------------------------------------
 Alright so these are all of the current ones i know off, If you know more feel free to tell me about it
