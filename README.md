@@ -40,6 +40,7 @@ const Discord = require("discord.js");
 
     logChannel.send(embed);
 }
+
 --------------------------------------------------------------------------------------------------------------
 You will need to know js to use it
 Just add 1 line of code.
