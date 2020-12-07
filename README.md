@@ -11,11 +11,15 @@ So here is the example i'll give (which you can use as a to get you started and 
 First of all, Make a category called "events" 
 After you have done  make a channel called "messageDelete.js"
 Paste this in
---------------------------------------------------------------------------------------
+
 
 channel called "messageDelete.js"
+
+--------------------------------------------------------------------------------------
 const Discord = require("discord.js");
+
     const logChannel = message.guild.channels.cache.find(c => c.name === "modlog");
+
     if (!logChannel) return;
 
     let chunked;
