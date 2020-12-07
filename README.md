@@ -18,7 +18,7 @@ channel called "messageDelete.js"
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 ```const Discord = require("discord.js");
-
+     const Discord = require("discord.js");
     const logChannel = message.guild.channels.cache.find(c => c.name === "modlog");
 
     if (!logChannel) return;
