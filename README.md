@@ -40,7 +40,7 @@ channel called "messageDelete.js"
         ].join("\n"))
 
     logChannel.send(embed); 
-}`
+}
 
 --------------------------------------------------------------------------------------------------------------
 You will need to know js to use it
